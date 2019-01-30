@@ -60,13 +60,13 @@
     <repository>
         <id>deployment</id>
         <name>Internal Release1</name>
-        <url>http://18.222.150.8:8081/repository/releaseversioning/</url>
+        <url>http://13.59.143.172:8081/repository/releaseversioning/</url>
     </repository>
 
     <snapshotRepository>
         <id>deployment</id>
         <name>Internal Releases</name>
-        <url>http://18.222.150.8:8081/repository/releasesnapshot</url>
+        <url>http://13.59.143.172:8081/repository/releasesnapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
